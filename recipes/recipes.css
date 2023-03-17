@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(115deg,#5a3f26,#bb8d59);
+}
+h1{
+    color: #fff;
+    justify-content: center;
+    display: flex;
+    font-size: 36px;
+    text-transform: capitalize;
+}
+h1:hover{
+    color: darkkhaki;
+    transition: 0.5s ease-in-out;
+    transform: translateY(4deg) translateX(8deg);
+}
+p{
+ 
+    justify-content: center;
+    display: flex;
+ 
+}
+
+
